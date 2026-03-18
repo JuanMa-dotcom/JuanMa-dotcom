@@ -42,19 +42,15 @@
 
 <div align="center">
 
-**Languages**
+<br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark)](https://skillicons.dev)
 
-**Tools & IDEs**
+<br/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,jupyter&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 </div>
 
@@ -120,21 +116,9 @@
 
 ---
 
+---
+
 <div align="center">
-```
-┌─────────────────────────────────────────┐
-│   " Code, learn, improve, repeat. "     │
-└─────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=JuanMa-dotcom&color=00D9FF&style=flat-square&label=Profile+Views)
-
-</div>
-```
-┌─────────────────────────────────────────┐
-│   " Code, learn, improve, repeat. "     │
-└─────────────────────────────────────────┘
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JuanMa-dotcom&color=00D9FF&style=flat-square&label=Profile+Views)
 
