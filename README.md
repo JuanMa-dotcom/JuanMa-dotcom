@@ -2,7 +2,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║        J U A N   M A N U E L   V A L D E Z              ║
+║        J U A N   M A N U E L   V A L D E Z               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -12,7 +12,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-valdez-l%C3%B3pez-15563033a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_juanma_vl/)
 
 </div>
 
@@ -110,10 +110,6 @@ class JuanManuel:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMa-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMa-dotcom&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>
-
 <br/>
 
 ## ◈ Contribution Activity
@@ -127,6 +123,15 @@ class JuanManuel:
 ---
 
 <div align="center">
+```
+┌─────────────────────────────────────────┐
+│   " Code, learn, improve, repeat. "     │
+└─────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=JuanMa-dotcom&color=00D9FF&style=flat-square&label=Profile+Views)
+
+</div>
 ```
 ┌─────────────────────────────────────────┐
 │   " Code, learn, improve, repeat. "     │
