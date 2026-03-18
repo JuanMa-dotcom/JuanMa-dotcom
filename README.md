@@ -61,9 +61,9 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ ShellSort Algorithm</h3>
+      <h3 align="center">⚡ Sorting Algorithms</h3>
       <p align="center">
-        Implementation of the ShellSort algorithm in <strong>Java</strong> with detailed performance analysis and complexity comparison across different gap sequences.
+        Implementation of sorting algorithms in <strong>Java</strong> with performance analysis and complexity comparison.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -73,7 +73,7 @@
     <td width="50%">
       <h3 align="center">📐 Numerical Methods</h3>
       <p align="center">
-        Implementation of numerical analysis methods including the <strong>Secant Method</strong> for root finding with convergence visualization.
+        Implementation of numerical analysis methods for root finding and convergence visualization.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center">🎰 Finite Automata — Slot Machine DFA</h3>
+      <h3 align="center">🎰 Finite Automata</h3>
       <p align="center">
-        Simulation of a slot machine using a <strong>Deterministic Finite Automaton</strong>. Models states, transitions, and acceptance conditions in a formal computational model.
+        Simulation of systems using <strong>Deterministic Finite Automata</strong>. Models states, transitions, and acceptance conditions.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Theory-Automata-00D9FF?style=flat-square"/>
@@ -94,8 +94,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 ## ◈ GitHub Stats
 
