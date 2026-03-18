@@ -48,13 +48,13 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,netbeans&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git&theme=dark)](https://skillicons.dev)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br/>
 
 </div>
-
-<br/>
 
 ## ◈ Featured Projects
 
