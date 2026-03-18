@@ -48,7 +48,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,jupyter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,netbeans&theme=dark)](https://skillicons.dev)
 
 <br/>
 
