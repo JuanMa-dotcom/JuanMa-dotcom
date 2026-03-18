@@ -14,6 +14,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-valdez-l%C3%B3pez-15563033a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_juanma_vl/)
+<br/>
+
+<img src="https://github.com/JuanMa-dotcom/JuanMa-dotcom/blob/output/github-snake-dark.svg" alt="Snake animation"/>
+
+</div>
 
 </div>
 
@@ -100,14 +105,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanMa-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMa-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
-
-<br/>
-
-## ◈ Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/JuanMa-dotcom/JuanMa-dotcom/blob/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <br/>
