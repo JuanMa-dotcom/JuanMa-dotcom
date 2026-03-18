@@ -1,11 +1,12 @@
 <div align="center">
-```
+
+<pre>
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║        J U A N   M A N U E L   V A L D E Z               ║
+║        J U A N   M A N U E L   V A L D E Z              ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB;Data+Enthusiast+%F0%9F%93%8A;Problem+Solver+%E2%9A%99%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -19,24 +20,21 @@
 <br/>
 
 ## ◈ About Me
-```python
-class JuanManuel:
-    def __init__(self):
-        self.name        = "Juan Manuel Valdez López"
-        self.role        = "Computer Engineering Student"
-        self.location    = "México 🇲🇽"
-        self.languages   = ["Python", "Java", "C", "C++"]
-        self.interests   = ["Software Dev", "Data Analysis", "Algorithms"]
-        self.motto       = "Code, learn, improve, repeat."
 
-    def current_focus(self):
-        return [
-            "🎓 Studying Computer Engineering",
-            "📊 Exploring data analysis & visualization",
-            "⚙️  Solving complex algorithmic problems",
-            "🚀 Constantly expanding my tech stack"
-        ]
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 | Computer Engineering Student |
+| 📍 | México 🇲🇽 |
+| 💻 | Passionate about Software Development |
+| 📊 | Interested in Data Analysis |
+| ⚙️ | Love solving complex problems |
+| 🚀 | Always learning new technologies |
+| 💬 | Languages: Python, Java, C, C++ |
+| ✨ | *"Code, learn, improve, repeat."* |
+
+</div>
 
 <br/>
 
