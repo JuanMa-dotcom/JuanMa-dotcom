@@ -1,9 +1,23 @@
-# JuanMa-dotcom's Codeverse // Where code comes to life 🚀
+<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
+<h3 align="center">Computer Engineering Student | Software Developer</h3>
 
-![snake gif](https://github.com/JuanMa-dotcom/JuanMa-dotcom/blob/output/github-snake-dark.svg)
-Hi, I'm Juan Manuel, a Computer Engineering student passionate about technology and software development. Here you'll find a collection of my projects, academic work, and contributions to the tech community.
-- **Technologies Used:**
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Data+Enthusiast;Always+Learning;Problem+Solver&center=true&width=500&height=50">
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 Computer Engineering student  
+- 💻 Passionate about software development  
+- 📊 Interested in data analysis  
+- ⚙️ I enjoy solving complex problems  
+- 🚀 Always learning new technologies  
+
+---
+
+## 💻 Tech Stack
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -12,15 +26,48 @@ Hi, I'm Juan Manuel, a Computer Engineering student passionate about technology 
   <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#00599C" rx="60"/><path fill="#fff" d="M110.759 210.517C65.1254 210.517 28 173.392 28 127.759C28 82.1254 65.1254 45 110.759 45C140.204 45 167.667 60.8458 182.427 86.3533L146.611 107.079C139.224 94.3111 125.485 86.3793 110.759 86.3793C87.9416 86.3793 69.3793 104.942 69.3793 127.759C69.3793 150.575 87.9416 169.138 110.759 169.138C125.486 169.138 139.225 161.206 146.613 148.436L182.429 169.161C167.669 194.671 140.206 210.517 110.759 210.517Z"/><path fill="#fff" d="M193.517 123.161H184.321V113.965H175.127V123.161H165.931V132.356H175.127V141.552H184.321V132.356H193.517V123.161Z"/><path fill="#fff" d="M228 123.161H218.804V113.965H209.61V123.161H200.414V132.356H209.61V141.552H218.804V132.356H228V123.161Z"/></svg>
 
+---
 
+## 🚀 Featured Projects
+- 🔹 **ShellSort Algorithm (Java)**  
+  Implementation of ShellSort algorithm with performance analysis  
 
-## 📚 About Me
-I'm currently studying Computer Engineering, and I'm interested in various fields of technology including software development, data analysis, and more. I enjoy working on projects that challenge me and help me grow as a developer.
+- 🔹 **Numerical Methods**  
+  Implementation of methods like Secant Method  
 
+- 🔹 **Finite Automata Project**  
+  Simulation of a slot machine using DFA  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanMa-dotcom&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMa-dotcom&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/JuanMa-dotcom/JuanMa-dotcom/blob/output/github-snake-dark.svg"/>
+</p>
+
+---
 
 ## 🤝 Connect with Me
-- [Instagram](https://www.instagram.com/)
-Thank you for visiting my GitHub profile!
+<p align="center">
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-manuel-valdez-l%C3%B3pez-15563033a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+<p align="center">
+  💡 "Code, learn, improve, repeat."
+</p>
